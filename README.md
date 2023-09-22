@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujwalu&label=Profile%20views&color=0e75b6&style=flat" alt="ujwalu" /> </p>
 
-- 🔭 I’m currently working on **Pharmacy Management System(Mobile Application Development)**
+- 🔭 I’m currently working on **E-Commmerces Website (Full stack )**
 
-- 🌱 I’m currently learning **Java(Android),Firebase,Django REST**
+- 🌱 I’m currently learning **React Js , Next Js , Node Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/UjwalU](https://github.com/UjwalU)
 
