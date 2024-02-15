@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MQTT load balancing using IOT **
 
-- 🌱 I’m currently learning **React Js , Next Js , Node Js**
+- 🌱 I’m currently learning ** Devops**
 
 - 👨‍💻 All of my projects are available at [https://github.com/UjwalU](https://github.com/UjwalU)
 
