@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ujwal Uddar</h1>
-<h3 align="center">I am a Frontend Developer (React JS)!</h3>
+<h3 align="center">I am a Full-Stack Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujwalu&label=Profile%20views&color=0e75b6&style=flat" alt="ujwalu" /> </p>
 
-- 🔭 I’m currently working on **MQTT load balancing using IOT **
+- 🔭 I’m currently working on **Sytem Architect and Sytem Design for High Order and Low Order Design **
 
-- 🌱 I’m currently learning ** Devops**
+- 🌱 I’m currently learning **HLD**
 
 - 👨‍💻 All of my projects are available at [https://github.com/UjwalU](https://github.com/UjwalU)
 
